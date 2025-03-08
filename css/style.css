@@ -425,3 +425,7 @@ form button[type="submit"]:hover {
     }
 }
 
+.container {
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
